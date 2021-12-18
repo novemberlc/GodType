@@ -22,10 +22,11 @@ chatTypeColon: false
 
 ## Usage
 For users:
-1. Download the most recent jarfile from releases
+1. Download the most recent jarfile from releases: https://github.com/novemberlc/GodType/releases/
 2. Put the file in the plugins folder of your server
 3. Restart the server to generate the config
 5. Edit the config according to the Config section above, if you choose. The server needs to be restarted to apply the changes, as  there is no reload command.
+6. `/gt <message>` to type using the plugin. The command can be used by users with permission, and by the console.
 
 For developers:
 1. Clone, fork, or do whatever. Project files are included for Eclipse.
