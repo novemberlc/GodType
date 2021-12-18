@@ -1,0 +1,14 @@
+name: GodType
+prefix: GodType
+main: com.novemberlc.godtype.GodType
+version: "1.0"
+api-version: "1.16"
+
+commands:
+  gt:
+    description: Command to type as the name defined in the config. All subsequent words are the content of the message.
+
+permissions:
+  godtyper:
+    description: Allows a player to use the gt command.
+    default: op
