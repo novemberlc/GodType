@@ -30,3 +30,6 @@ For users:
 
 For developers:
 1. Clone, fork, or do whatever. Project files are included for Eclipse.
+
+## License
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
